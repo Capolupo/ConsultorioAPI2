@@ -23,7 +23,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<kotlin.version>1.2.20</kotlin.version>
-        <start-class>br.com.capolupo.consultorioAPI2.ConsultorioApi2ApplicationKt</start-class>
+        <start-class>br.com.capolupo.consultorioAPI2.ConsultorioApi2Application</start-class>
 	</properties>
 
 	<dependencies>
